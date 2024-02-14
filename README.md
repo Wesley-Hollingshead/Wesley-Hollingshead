@@ -33,6 +33,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/weshollingshead2253
+[youtube]: https://www.youtube.com/channel/UCRtYFfhK6i-AEH3bKKq67Qw
 [linkedin]: https://www.linkedin.com/in/wesley-hollingshead-301543174/
 
